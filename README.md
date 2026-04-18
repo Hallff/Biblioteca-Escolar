@@ -1,4 +1,5 @@
-# Sistema de Biblioteca Escolar
+# Sistema de Biblioteca Escolar - MVC
+
 
 ## Tabelas (Classes)
 
